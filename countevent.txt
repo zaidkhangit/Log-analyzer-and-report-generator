@@ -1,1 +1,1 @@
-22
+ grep  INFO samplelogs.log | wc -l
